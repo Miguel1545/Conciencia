@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.buscador__but{
+    background-color: rgb(39, 106, 83);
+    margin-top: 50px;
+    margin-left: 30px;
+    height: 20%;
+}
+.encabezado{
+    height: 15vh;
+    background-color: aquamarine;
+}
+.encabezado1{
+    display: flex;
+}
+.cuerpo{
+    display: flex;
+    height: 70vh;
+    background-color: white;
+}
+.cuerpo1{
+    width: 50%;
+}
+.cuerpo2 {
+    width: 50%;
+    align-items: center;
+}
+.pie_de_paguina{
+
+    height: 15vh;
+    background-color: aquamarine;
+}
+.boton_1{
+    background-color: rgb(68, 105, 79);
+}
+
+.boton_2{
+    background-color:rgb(68, 105, 79);
+}
+.botones{
+    margin-top: 3%;
+    display: flex;
+    height: 20%;
+}
+
+.logo_img{
+    height: 70px;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+.images{
+    display: flex;
+    height: 100%;
+}
+.imagen{
+    margin-top: 10px;
+    width: 70%;
+    height: 80%;
+}
+.titulo{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 3%;
+    border-radius: 10px;
+    background-color: rgb(115, 223, 223);
+}
+.texto_pie_de_paguina{
+    font-size: 15px;
+    margin-top: 3%;
+}
+.espacio{
+    width: 60%;
+}
+.espacio2{
+    width: 5%;
+}
+.logo{
+    width: 15%;
+}
+
+.espacio_encabezado{
+    width: 60%;
+}
+.seleccion{
+    background-color: rgb(76, 118, 67);
+    height: 20%;
+    margin: 10%;
+    border: 1px solid black;
+}
+.inserte_imagen{
+    margin: 10%;
+    background-color: bisque;
+    height: 70%;
+    width: 75%;
+}
+
