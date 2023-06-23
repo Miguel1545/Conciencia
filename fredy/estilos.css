@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+}
+header{
+
+    background-color: aquamarine;
+    height: 10vh;
+
+}
+
+main{
+    text-align: center;
+    height: 80vh;
+    
+}
+
+.imagen{
+    width: 200px;
+    height: 520px;
+    margin-right: 5%;
+    
+    
+}
+
+.contenedor{
+    text-align: right;
+    background-color: aquamarine;
+    height: 700px;
+    width: 800px;
+    margin: auto;
+    border: auto;
+    
+    
+}
+
+article{
+    
+    text-align: center;
+
+}
+
+footer{
+    display: flex;
+    background-color: aquamarine;
+    height:15vh
+}
+
+h3{
+    text-align:end;
+
+}
+
+
+section{
+    text-align: center
+    
+}
+
+.image{
+    margin-top: 15px;
+    width: 11%;
+    height: 60%;
+}
+.espacio{
+    width: 70%;
+}
